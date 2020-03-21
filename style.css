@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:600&display=swap');
+
+body {
+  background-color: aliceblue;
+  margin: 1rem;
+  font-family: 'Dosis', sans-serif;
+}
+
+.Start {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.SlotImages {
+  padding-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#status {
+  width: 250px;
+  height: auto;
+}
+h3 {  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#balanceDisplay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
